@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ali's GitHub stats](https://github-readme-stats-drab-gamma.vercel.app/api?username=ali-ben-hammad&show_icons=true&theme=radical)
+
+
+
+![Top Langs](https://github-readme-stats-drab-gamma.vercel.app/api/top-langs/?username=ali-ben-hammad&layout=compact&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ali-ben-hammad&theme=radical&hide_border=false)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ali-ben-hammad&color=blue)
+
+![Followers](https://img.shields.io/github/followers/ali-ben-hammad?label=Follow&style=social)
