@@ -22,7 +22,10 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  </picture>
 </div>
 
 <br>
@@ -33,11 +36,12 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24">
 </h2>
 
-<!-- Chess Board Style Skills Section -->
-<table align="center" style="border-collapse: collapse;">
+<!-- Chess Board Style Skills Section - Now Responsive -->
+<div align="center">
+  <div style="max-width: 100%; overflow-x: auto;">
+    <table style="border-collapse: collapse; margin: 0 auto; min-width: 600px;">
   <tr>
-    <!-- Row 1 -->
-    <td align="center" width="96" style="border: 2px solid #333;">
+    <!-- Row 1 -->    <td align="center" width="96" style="border: 2px solid #333;">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
       <br><b>JavaScript</b>
     </td>
@@ -121,7 +125,8 @@
     <td align="center" width="96" style="background-color: #f0f0f0; border: 2px solid #333;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
       <br><b>Redis</b>
-    </td>    <td align="center" width="96" style="border: 2px solid #333;">
+    </td>
+    <td align="center" width="96" style="border: 2px solid #333;">
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="65" height="65" alt="Kafka" />
       <br><b>Kafka</b>
     </td>
@@ -147,7 +152,7 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96" style="border: 2px solid #333;">
+    <td align="center"    <td align="center" width="96" style="border: 2px solid #333;">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma" />
       <br>Figma
     </td>
@@ -169,22 +174,30 @@
     </td>
   </tr>
 </table>
+ </div>
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  </picture>
 </div>
-
-
 
 <h2 align="center">
   Some Stats
 </h2>
 
+<!-- Desktop View -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-drab-gamma.vercel.app/api?username=ali-ben-hammad&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_title=true" />
-  <img width="41%" height="195px" src="https://github-readme-stats-drab-gamma.vercel.app/api/top-langs/?username=ali-ben-hammad&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_title=true" />
+  <a href="https://github.com/ali-ben-hammad">
+    <img width="49%" src="https://github-readme-stats-drab-gamma.vercel.app/api?username=ali-ben-hammad&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_title=true" />
+  </a>
+  <a href="https://github.com/ali-ben-hammad">
+    <img width="41%" src="https://github-readme-stats-drab-gamma.vercel.app/api/top-langs/?username=ali-ben-hammad&layout=compact&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117&hide_title=true" />
+  </a>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-ben-hammad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="ali-ben-hammad" />
@@ -195,6 +208,11 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:87CEEB&height=100&section=footer&text=Not%20the%20end%20yet!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
+  <picture>
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:87CEEB&height=100&section=footer&text=Not%20the%20end%20yet!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" 
+      width="100%" 
+      alt="Footer"
+    />
+  </picture>
 </div>
-
